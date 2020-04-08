@@ -264,7 +264,10 @@
 #include "code\controllers\subsystem\pathfinder.dm"
 #include "code\controllers\subsystem\persistence.dm"
 #include "code\controllers\subsystem\ping.dm"
+<<<<<<< HEAD
 #include "code\controllers\subsystem\profiler.dm"
+=======
+>>>>>>> monkybuff
 #include "code\controllers\subsystem\radiation.dm"
 #include "code\controllers\subsystem\radio.dm"
 #include "code\controllers\subsystem\research.dm"
@@ -472,7 +475,10 @@
 #include "code\datums\diseases\advance\symptoms\skin.dm"
 #include "code\datums\diseases\advance\symptoms\sneeze.dm"
 #include "code\datums\diseases\advance\symptoms\species.dm"
+<<<<<<< HEAD
 #include "code\datums\diseases\advance\symptoms\spiked.dm"
+=======
+>>>>>>> monkybuff
 #include "code\datums\diseases\advance\symptoms\symptoms.dm"
 #include "code\datums\diseases\advance\symptoms\viral.dm"
 #include "code\datums\diseases\advance\symptoms\vision.dm"
@@ -791,7 +797,10 @@
 #include "code\game\objects\buckling.dm"
 #include "code\game\objects\empulse.dm"
 #include "code\game\objects\items.dm"
+<<<<<<< HEAD
 #include "code\game\objects\noose.dm"
+=======
+>>>>>>> monkybuff
 #include "code\game\objects\obj_defense.dm"
 #include "code\game\objects\objs.dm"
 #include "code\game\objects\structures.dm"
@@ -1841,7 +1850,10 @@
 #include "code\modules\food_and_drinks\recipes\tablecraft\recipes_soup.dm"
 #include "code\modules\food_and_drinks\recipes\tablecraft\recipes_spaghetti.dm"
 #include "code\modules\games\cas.dm"
+<<<<<<< HEAD
 #include "code\modules\games\unum.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\goonchat\browserOutput.dm"
 #include "code\modules\goonchat\jsErrorHandler.dm"
 #include "code\modules\holiday\easter.dm"
@@ -1932,7 +1944,10 @@
 #include "code\modules\integrated_electronics\subtypes\logic.dm"
 #include "code\modules\integrated_electronics\subtypes\manipulation.dm"
 #include "code\modules\integrated_electronics\subtypes\memory.dm"
+<<<<<<< HEAD
 #include "code\modules\integrated_electronics\subtypes\mining.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\integrated_electronics\subtypes\output.dm"
 #include "code\modules\integrated_electronics\subtypes\power.dm"
 #include "code\modules\integrated_electronics\subtypes\reagents.dm"
@@ -2215,7 +2230,10 @@
 #include "code\modules\mob\living\carbon\human\species_types\skeletons.dm"
 #include "code\modules\mob\living\carbon\human\species_types\snail.dm"
 #include "code\modules\mob\living\carbon\human\species_types\squidpeople.dm"
+<<<<<<< HEAD
 #include "code\modules\mob\living\carbon\human\species_types\supersoldier.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\mob\living\carbon\human\species_types\synths.dm"
 #include "code\modules\mob\living\carbon\human\species_types\vampire.dm"
 #include "code\modules\mob\living\carbon\human\species_types\zombies.dm"
@@ -2306,7 +2324,10 @@
 #include "code\modules\mob\living\simple_animal\friendly\pet.dm"
 #include "code\modules\mob\living\simple_animal\friendly\sloth.dm"
 #include "code\modules\mob\living\simple_animal\friendly\snake.dm"
+<<<<<<< HEAD
 #include "code\modules\mob\living\simple_animal\friendly\turtle.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\mob\living\simple_animal\friendly\drone\_drone.dm"
 #include "code\modules\mob\living\simple_animal\friendly\drone\drones_as_items.dm"
 #include "code\modules\mob\living\simple_animal\friendly\drone\extra_drone_types.dm"
@@ -2316,12 +2337,20 @@
 #include "code\modules\mob\living\simple_animal\friendly\drone\verbs.dm"
 #include "code\modules\mob\living\simple_animal\friendly\drone\visuals_icons.dm"
 #include "code\modules\mob\living\simple_animal\guardian\guardian.dm"
+<<<<<<< HEAD
+=======
+#include "code\modules\mob\living\simple_animal\guardian\guardiannaming.dm"
+>>>>>>> monkybuff
 #include "code\modules\mob\living\simple_animal\guardian\types\assassin.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\charger.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\dextrous.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\explosive.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\fire.dm"
+<<<<<<< HEAD
 #include "code\modules\mob\living\simple_animal\guardian\types\gravitokinetic.dm"
+=======
+#include "code\modules\mob\living\simple_animal\guardian\types\gravity.dm"
+>>>>>>> monkybuff
 #include "code\modules\mob\living\simple_animal\guardian\types\lightning.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\protector.dm"
 #include "code\modules\mob\living\simple_animal\guardian\types\ranged.dm"
@@ -2331,7 +2360,10 @@
 #include "code\modules\mob\living\simple_animal\hostile\alien.dm"
 #include "code\modules\mob\living\simple_animal\hostile\bear.dm"
 #include "code\modules\mob\living\simple_animal\hostile\bees.dm"
+<<<<<<< HEAD
 #include "code\modules\mob\living\simple_animal\hostile\bread.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\mob\living\simple_animal\hostile\carp.dm"
 #include "code\modules\mob\living\simple_animal\hostile\cat_butcher.dm"
 #include "code\modules\mob\living\simple_animal\hostile\eyeballs.dm"
@@ -2901,16 +2933,25 @@
 #include "code\modules\surgery\brain_surgery.dm"
 #include "code\modules\surgery\cavity_implant.dm"
 #include "code\modules\surgery\core_removal.dm"
+<<<<<<< HEAD
 #include "code\modules\surgery\coronary_bypass.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\surgery\dental_implant.dm"
 #include "code\modules\surgery\eye_surgery.dm"
 #include "code\modules\surgery\healing.dm"
 #include "code\modules\surgery\helpers.dm"
+<<<<<<< HEAD
 #include "code\modules\surgery\hepatectomy.dm"
 #include "code\modules\surgery\implant_removal.dm"
 #include "code\modules\surgery\limb_augmentation.dm"
 #include "code\modules\surgery\lipoplasty.dm"
 #include "code\modules\surgery\lobectomy.dm"
+=======
+#include "code\modules\surgery\implant_removal.dm"
+#include "code\modules\surgery\limb_augmentation.dm"
+#include "code\modules\surgery\lipoplasty.dm"
+>>>>>>> monkybuff
 #include "code\modules\surgery\mechanic_steps.dm"
 #include "code\modules\surgery\organ_manipulation.dm"
 #include "code\modules\surgery\organic_steps.dm"
@@ -2931,7 +2972,10 @@
 #include "code\modules\surgery\advanced\bioware\experimental_dissection.dm"
 #include "code\modules\surgery\advanced\bioware\ligament_hook.dm"
 #include "code\modules\surgery\advanced\bioware\ligament_reinforcement.dm"
+<<<<<<< HEAD
 #include "code\modules\surgery\advanced\bioware\muscled_veins.dm"
+=======
+>>>>>>> monkybuff
 #include "code\modules\surgery\advanced\bioware\nerve_grounding.dm"
 #include "code\modules\surgery\advanced\bioware\nerve_splicing.dm"
 #include "code\modules\surgery\advanced\bioware\vein_threading.dm"
