@@ -1,5 +1,5 @@
 //the random offset applied to square coordinates, causes intermingling at biome borders
-BIOME_RANDOM_SQUARE_DRIFT 2
+#define BIOME_RANDOM_SQUARE_DRIFT 2
 
 /datum/map_generator/tundra_generator
 	///2D list of all biomes based on heat and humidity combos.
@@ -79,3 +79,4 @@ BIOME_RANDOM_SQUARE_DRIFT 2
 		selected_biome.generate_turf(gen_turf)
 		CHECK_TICK
 
+#define BIOME_RANDOM_SQUARE_DRIFT 2
