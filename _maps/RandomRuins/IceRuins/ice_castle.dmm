@@ -1,0 +1,892 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/floor/stone,
+/area/ruin)
+"b" = (
+/obj/structure/flora/tree/pine,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"c" = (
+/obj/structure/flora/ausbushes/reedbush{
+	pixel_y = -9;
+	pixel_x = 10
+	},
+/turf/open/floor/grass/snow,
+/area/ruin)
+"d" = (
+/mob/living/simple_animal/hostile/skeleton/templar,
+/turf/open/floor/stone,
+/area/ruin)
+"e" = (
+/turf/open/floor/grass/snow,
+/area/ruin)
+"f" = (
+/obj/item/banner/security/mundane,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"g" = (
+/obj/structure/barricade/wooden/snowed,
+/turf/open/floor/plating,
+/area/ruin)
+"h" = (
+/turf/closed/wall/mineral/iron,
+/area/ruin)
+"i" = (
+/obj/structure/girder,
+/turf/open/floor/plating,
+/area/ruin)
+"j" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"k" = (
+/obj/item/chair/wood,
+/turf/open/floor/wood,
+/area/ruin)
+"m" = (
+/obj/structure/barricade/wooden/crude/snow,
+/turf/open/floor/plating,
+/area/ruin)
+"n" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"o" = (
+/turf/closed/wall/mineral/wood,
+/area/ruin)
+"p" = (
+/obj/structure/table/wood/fancy,
+/turf/open/floor/stone,
+/area/ruin)
+"q" = (
+/obj/item/candle,
+/turf/open/floor/wood,
+/area/ruin)
+"r" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/wood,
+/area/ruin)
+"s" = (
+/mob/living/simple_animal/hostile/skeleton/templar{
+	health = 250;
+	name = "templar king"
+	},
+/turf/open/floor/carpet/red,
+/area/ruin)
+"t" = (
+/turf/open/floor/carpet/red,
+/area/ruin)
+"u" = (
+/obj/structure/flora/ausbushes/reedbush{
+	pixel_y = -9;
+	pixel_x = 10
+	},
+/obj/structure/flora/ausbushes/reedbush,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"v" = (
+/obj/item/paper/crumpled/ruins/snowdin/misc1{
+	name = "Hastily-written note"
+	},
+/turf/open/floor/grass/snow,
+/area/ruin)
+"w" = (
+/obj/structure/flora/ausbushes/reedbush,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"x" = (
+/obj/structure/barricade/wooden/snowed,
+/obj/structure/barricade/wooden/crude/snow,
+/turf/open/floor/wood,
+/area/ruin)
+"y" = (
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"z" = (
+/obj/structure/table/wood,
+/obj/item/clothing/suit/armor/riot/chaplain{
+	pixel_x = 7;
+	pixel_y = 5
+	},
+/turf/open/floor/stone,
+/area/ruin)
+"B" = (
+/obj/structure/flora/grass/brown,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"C" = (
+/obj/structure/flora/ausbushes/reedbush,
+/obj/structure/flora/ausbushes/reedbush{
+	pixel_y = -9;
+	pixel_x = 10
+	},
+/turf/open/floor/grass/snow,
+/area/ruin)
+"D" = (
+/turf/open/floor/wood,
+/area/ruin)
+"E" = (
+/mob/living/simple_animal/hostile/skeleton/templar,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"G" = (
+/obj/item/trash/candle,
+/turf/open/floor/wood,
+/area/ruin)
+"H" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/stone,
+/area/ruin)
+"I" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/ruin)
+"J" = (
+/turf/open/floor/plating/ice,
+/area/ruin)
+"L" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/wood,
+/area/ruin)
+"M" = (
+/turf/open/floor/plating,
+/area/ruin)
+"N" = (
+/obj/structure/table/wood,
+/obj/item/kitchen/fork{
+	pixel_y = 8;
+	pixel_x = 1
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/ruin)
+"O" = (
+/obj/item/paper/crumpled/ruins/snowdin/misc1{
+	name = "Hastily-written note";
+	info = "Libera te tutemet ex inferis."Crewdidn'tevenknowwhatwashappeningtillthedeltaalertwentdownandbythenwewerealreadygone.Wegotacasetodrinkonthewayhometocelebrate,fuckin'jobwelldone!"\t},/turf/open/floor/grass/snow,/area/space)"R" = (/obj/structure/flora/grass/green,/turf/open/floor/grass/snow,/area/space)"U" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/remains/human,/turf/open/floor/grass/snow,/area/space)"V" = (/obj/item/banner/security/mundane,/turf/open/floor/stone,/area/space)"W" = (/obj/structure/fireplace,/obj/effect/decal/cleanable/ash,/obj/item/paper/crumpled/ruins/snowdin/misc1{\tname = "Hastily-writtennote";\tinfo = "Liberatetutemetexinferis."\tCrew didn't even know what was happening till the delta alert went down and by then we were already gone. We got a case to drink on the way home to celebrate, fuckin' job well done!"
+	},
+/turf/open/floor/stone,
+/area/ruin)
+"R" = (
+/obj/item/banner/security,
+/turf/open/floor/stone,
+/area/ruin)
+"U" = (
+/obj/structure/fireplace,
+/turf/open/floor/stone,
+/area/ruin)
+"X" = (
+/turf/open/floor/plating/ice/smooth,
+/area/ruin)
+"Y" = (
+/obj/structure/flora/rock/icy,
+/turf/open/floor/grass/snow,
+/area/ruin)
+"Z" = (
+/obj/structure/flora/rock/pile/icy,
+/turf/open/floor/grass/snow,
+/area/ruin)
+
+(1,1,1) = {"
+e
+e
+e
+e
+e
+e
+J
+J
+e
+e
+J
+J
+e
+e
+e
+e
+e
+e
+e
+e
+J
+J
+e
+e
+e
+"}
+(2,1,1) = {"
+e
+e
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+J
+e
+B
+B
+X
+J
+J
+J
+J
+e
+J
+J
+"}
+(3,1,1) = {"
+X
+J
+J
+J
+e
+e
+e
+e
+e
+X
+B
+J
+J
+J
+e
+J
+J
+J
+e
+e
+e
+J
+e
+e
+J
+"}
+(4,1,1) = {"
+J
+J
+e
+h
+h
+M
+h
+h
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+h
+h
+h
+M
+M
+e
+J
+"}
+(5,1,1) = {"
+J
+e
+e
+h
+a
+a
+d
+h
+e
+e
+e
+e
+e
+y
+e
+e
+e
+e
+M
+a
+a
+a
+h
+J
+e
+"}
+(6,1,1) = {"
+J
+e
+e
+M
+a
+a
+I
+M
+h
+h
+i
+M
+h
+g
+h
+h
+h
+h
+h
+a
+d
+I
+M
+J
+e
+"}
+(7,1,1) = {"
+J
+J
+e
+M
+a
+a
+a
+h
+e
+e
+e
+y
+e
+e
+e
+e
+e
+e
+h
+H
+a
+a
+i
+J
+J
+"}
+(8,1,1) = {"
+J
+J
+e
+h
+h
+h
+h
+h
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+i
+h
+h
+h
+h
+B
+J
+"}
+(9,1,1) = {"
+e
+J
+e
+e
+e
+h
+e
+E
+e
+e
+e
+e
+b
+e
+e
+e
+e
+e
+B
+e
+h
+e
+e
+J
+X
+"}
+(10,1,1) = {"
+c
+J
+B
+Y
+e
+i
+e
+e
+e
+o
+o
+o
+o
+o
+o
+e
+e
+e
+e
+e
+h
+C
+J
+J
+e
+"}
+(11,1,1) = {"
+w
+J
+e
+J
+e
+M
+Z
+e
+n
+o
+R
+t
+s
+t
+o
+e
+e
+e
+e
+e
+h
+f
+J
+B
+e
+"}
+(12,1,1) = {"
+e
+J
+J
+J
+e
+h
+e
+e
+e
+o
+p
+D
+t
+r
+o
+e
+e
+e
+e
+e
+h
+e
+J
+e
+e
+"}
+(13,1,1) = {"
+e
+X
+J
+e
+e
+m
+e
+j
+e
+o
+U
+G
+t
+G
+o
+o
+o
+o
+e
+D
+D
+D
+L
+D
+e
+"}
+(14,1,1) = {"
+e
+e
+e
+e
+e
+g
+y
+e
+e
+o
+a
+r
+t
+L
+G
+D
+q
+o
+e
+L
+D
+D
+D
+D
+e
+"}
+(15,1,1) = {"
+e
+X
+J
+e
+e
+h
+e
+e
+e
+o
+z
+D
+t
+t
+t
+t
+t
+x
+e
+e
+h
+e
+J
+e
+e
+"}
+(16,1,1) = {"
+e
+J
+J
+e
+e
+h
+e
+e
+e
+o
+N
+q
+D
+k
+q
+r
+G
+o
+e
+e
+h
+f
+e
+J
+e
+"}
+(17,1,1) = {"
+e
+J
+e
+e
+Z
+M
+e
+e
+e
+o
+o
+o
+o
+o
+o
+o
+o
+o
+e
+e
+m
+e
+e
+J
+J
+"}
+(18,1,1) = {"
+J
+J
+e
+B
+e
+h
+e
+e
+e
+j
+e
+e
+e
+v
+e
+e
+e
+e
+e
+b
+h
+e
+e
+J
+J
+"}
+(19,1,1) = {"
+J
+J
+J
+h
+h
+h
+h
+h
+e
+e
+e
+e
+O
+n
+e
+e
+E
+e
+h
+h
+h
+h
+h
+e
+e
+"}
+(20,1,1) = {"
+J
+J
+J
+h
+a
+H
+a
+h
+e
+e
+e
+Y
+e
+e
+y
+e
+e
+e
+h
+a
+a
+a
+M
+u
+J
+"}
+(21,1,1) = {"
+e
+J
+J
+m
+a
+a
+I
+h
+h
+h
+g
+h
+h
+h
+m
+i
+M
+h
+h
+a
+H
+a
+i
+e
+J
+"}
+(22,1,1) = {"
+e
+J
+e
+h
+a
+d
+a
+h
+e
+e
+e
+b
+e
+e
+e
+e
+Z
+e
+h
+I
+a
+a
+h
+e
+B
+"}
+(23,1,1) = {"
+e
+J
+e
+h
+M
+M
+M
+h
+e
+e
+B
+e
+J
+J
+e
+e
+e
+e
+h
+h
+h
+M
+M
+e
+J
+"}
+(24,1,1) = {"
+e
+J
+e
+e
+e
+e
+e
+e
+e
+J
+J
+J
+J
+J
+w
+J
+J
+e
+e
+e
+e
+e
+e
+e
+e
+"}
+(25,1,1) = {"
+e
+X
+J
+J
+e
+J
+J
+J
+J
+J
+J
+X
+e
+e
+c
+J
+J
+J
+J
+e
+e
+e
+e
+e
+J
+"}
+(26,1,1) = {"
+e
+e
+e
+J
+J
+J
+e
+e
+e
+e
+e
+e
+e
+e
+e
+B
+e
+e
+J
+J
+J
+J
+J
+J
+J
+"}

@@ -1,0 +1,455 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/closed/mineral/snowmountain/cavern,
+/area/lavaland/surface/outdoors)
+"b" = (
+/obj/structure/stone_tile{
+	dir = 8
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"d" = (
+/obj/item/flashlight/lantern,
+/obj/structure/table/abductor,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"e" = (
+/obj/machinery/abductor/experiment{
+	team_number = 100
+	},
+/obj/item/spear/bonespear,
+/obj/item/hemostat/alien,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"f" = (
+/obj/item/pickaxe,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"i" = (
+/obj/machinery/abductor/gland_dispenser,
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"k" = (
+/obj/structure/closet/crate/wooden,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"m" = (
+/obj/item/paper/guides/antag/abductor,
+/obj/structure/stone_tile/block/cracked{
+	dir = 4
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"n" = (
+/turf/closed/wall/mineral/abductor,
+/area/ruin/unpowered)
+"o" = (
+/obj/structure/window/reinforced/fulltile/ice,
+/obj/structure/grille,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"p" = (
+/obj/structure/table/optable/abductor,
+/obj/effect/mob_spawn/human/corpse/assistant,
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"q" = (
+/obj/item/flashlight/lantern,
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"r" = (
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"s" = (
+/obj/item/flashlight/lantern,
+/obj/structure/stone_tile/block/cracked,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"t" = (
+/turf/closed/mineral/snowmountain/cavern,
+/area/ruin/unpowered)
+"u" = (
+/obj/structure/table/abductor,
+/obj/item/clothing/mask/rat/tribal,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"v" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 1
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"w" = (
+/turf/closed/wall/mineral/wood,
+/area/ruin/unpowered)
+"y" = (
+/turf/open/floor/grass/snow,
+/area/lavaland/surface/outdoors)
+"z" = (
+/obj/structure/stone_tile/cracked,
+/obj/effect/decal/remains/human,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"A" = (
+/obj/structure/stone_tile{
+	dir = 4
+	},
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"B" = (
+/obj/item/cautery/alien,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"C" = (
+/obj/structure/flora/rock/icy,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"D" = (
+/obj/structure/fluff/fokoff_sign,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"G" = (
+/obj/item/spear/bonespear,
+/obj/structure/stone_tile/burnt,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"H" = (
+/mob/living/simple_animal/hostile/skeleton/ice,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"I" = (
+/obj/structure/barricade/wooden/snowed,
+/obj/structure/barricade/wooden/crude/snow,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"K" = (
+/obj/structure/stone_tile/block/cracked{
+	dir = 8
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"M" = (
+/obj/structure/stone_tile/block,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"O" = (
+/obj/machinery/abductor/pad{
+	team_number = 100
+	},
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"P" = (
+/obj/structure/closet/abductor,
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"Q" = (
+/obj/structure/fluff/iced_abductor,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"R" = (
+/obj/structure/stone_tile{
+	dir = 1
+	},
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"S" = (
+/obj/structure/flora/rock/pile/icy,
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"T" = (
+/turf/open/floor/plating/abductor{
+	initial_gas_mix = "o2=14;n2=5;co2=13;TEMP=300"
+	},
+/area/ruin/unpowered)
+"V" = (
+/obj/effect/decal/remains/human{
+	pixel_y = -8;
+	pixel_x = -19
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+"X" = (
+/obj/structure/bonfire/dense/askwalker,
+/obj/structure/stone_tile/slab/cracked{
+	dir = 4;
+	icon_state = "cracked_slab1"
+	},
+/obj/structure/stone_tile/center/cracked{
+	pixel_y = 8;
+	pixel_x = 11
+	},
+/turf/open/floor/grass/snow,
+/area/ruin/unpowered)
+
+(1,1,1) = {"
+y
+y
+y
+y
+y
+y
+a
+a
+a
+a
+a
+y
+y
+y
+y
+"}
+(2,1,1) = {"
+y
+y
+y
+y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+y
+"}
+(3,1,1) = {"
+y
+y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(4,1,1) = {"
+y
+a
+a
+a
+a
+t
+n
+n
+w
+w
+t
+w
+w
+t
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+n
+n
+e
+C
+i
+H
+r
+k
+t
+a
+"}
+(6,1,1) = {"
+a
+a
+a
+a
+a
+n
+T
+T
+B
+T
+T
+r
+f
+t
+a
+"}
+(7,1,1) = {"
+y
+a
+a
+a
+a
+n
+O
+T
+p
+A
+K
+b
+r
+o
+r
+"}
+(8,1,1) = {"
+y
+a
+a
+a
+a
+n
+T
+T
+T
+v
+X
+M
+I
+M
+r
+"}
+(9,1,1) = {"
+y
+y
+a
+a
+a
+n
+P
+q
+r
+R
+m
+G
+w
+s
+D
+"}
+(10,1,1) = {"
+a
+a
+a
+a
+a
+n
+n
+n
+z
+H
+V
+d
+w
+t
+a
+"}
+(11,1,1) = {"
+a
+a
+a
+a
+a
+t
+t
+n
+Q
+n
+S
+u
+w
+t
+a
+"}
+(12,1,1) = {"
+y
+a
+a
+a
+a
+a
+a
+t
+t
+t
+r
+t
+t
+a
+a
+"}
+(13,1,1) = {"
+y
+y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+y
+"}
+(14,1,1) = {"
+y
+y
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+y
+"}
+(15,1,1) = {"
+y
+y
+y
+y
+a
+a
+y
+a
+y
+a
+a
+y
+y
+y
+y
+"}
