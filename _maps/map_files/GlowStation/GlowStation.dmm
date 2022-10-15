@@ -24409,10 +24409,6 @@
 	pixel_x = 27;
 	pixel_y = -9
 	},
-/obj/machinery/newscaster/security_unit{
-	pixel_x = -28;
-	pixel_y = -28
-	},
 /obj/machinery/requests_console{
 	department = "AI";
 	departmentType = 5;
@@ -25328,9 +25324,6 @@
 /turf/open/floor/plasteel/dark,
 /area/engine/atmos)
 "gNR" = (
-/obj/machinery/newscaster/security_unit{
-	pixel_x = -32
-	},
 /obj/machinery/camera{
 	c_tag = "Detective's Office";
 	dir = 4
@@ -49712,7 +49705,6 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 1
 	},
-/obj/item/paper/fluff/glowstation/vault,
 /turf/open/floor/engine,
 /area/iceland)
 "ndd" = (
