@@ -48,7 +48,7 @@ endmap
 
 map glowstation
 	minplayers 40
-	default
+	votable
 endmap
 
 map flandstation
