@@ -27,7 +27,7 @@ map boxstation
 endmap
 
 map metastation
-	minplayers 40
+	default
 	votable
 endmap
 
@@ -47,7 +47,7 @@ map kilostation
 endmap
 
 map glowstation
-	default
+	minplayers 40
 	votable
 endmap
 
