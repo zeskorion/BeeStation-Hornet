@@ -27459,16 +27459,16 @@
 /area/security/prison)
 "hnh" = (
 /obj/machinery/light,
-/obj/item/cartridge/chemistry{
+/obj/item/computer_hardware/hard_drive/role/chemistry{
 	pixel_y = 6
 	},
-/obj/item/cartridge/medical{
+/obj/item/computer_hardware/hard_drive/role/medical{
 	pixel_x = -3
 	},
-/obj/item/cartridge/medical{
+/obj/item/computer_hardware/hard_drive/role/medical{
 	pixel_x = 3
 	},
-/obj/item/cartridge/medical{
+/obj/item/computer_hardware/hard_drive/role/medical{
 	pixel_x = 6;
 	pixel_y = 3
 	},
@@ -37629,12 +37629,12 @@
 /area/medical/medbay/central)
 "jRX" = (
 /obj/structure/table/wood,
-/obj/item/cartridge/quartermaster,
-/obj/item/cartridge/quartermaster{
+/obj/item/computer_hardware/hard_drive/role/quartermaster,
+/obj/item/computer_hardware/hard_drive/role/quartermaster{
 	pixel_x = -4;
 	pixel_y = 7
 	},
-/obj/item/cartridge/quartermaster{
+/obj/item/computer_hardware/hard_drive/role/quartermaster{
 	pixel_x = 6;
 	pixel_y = 5
 	},
@@ -65301,13 +65301,13 @@
 /area/maintenance/department/medical)
 "rdc" = (
 /obj/structure/table,
-/obj/item/cartridge/signal/toxins{
+/obj/item/computer_hardware/hard_drive/role/signal/toxins{
 	pixel_x = -6
 	},
-/obj/item/cartridge/signal/toxins{
+/obj/item/computer_hardware/hard_drive/role/signal/toxins{
 	pixel_y = 6
 	},
-/obj/item/cartridge/signal/toxins{
+/obj/item/computer_hardware/hard_drive/role/signal/toxins{
 	pixel_x = 6
 	},
 /turf/open/floor/plasteel/grid/steel,
@@ -82829,14 +82829,14 @@
 /area/engine/atmospherics_engine)
 "vOn" = (
 /obj/structure/table/reinforced,
-/obj/item/cartridge/engineering{
+/obj/item/computer_hardware/hard_drive/role/engineering{
 	pixel_x = 6;
 	pixel_y = 6
 	},
-/obj/item/cartridge/engineering{
+/obj/item/computer_hardware/hard_drive/role/engineering{
 	pixel_x = 8
 	},
-/obj/item/cartridge/atmos{
+/obj/item/computer_hardware/hard_drive/role/atmos{
 	pixel_x = -6;
 	pixel_y = 4
 	},
@@ -83462,7 +83462,7 @@
 "vWL" = (
 /obj/structure/table/wood,
 /obj/item/book/manual/wiki/security_space_law,
-/obj/item/cartridge/lawyer,
+/obj/item/computer_hardware/hard_drive/role/lawyer,
 /turf/open/floor/wood,
 /area/lawoffice)
 "vWT" = (

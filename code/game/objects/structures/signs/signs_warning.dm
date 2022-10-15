@@ -47,6 +47,12 @@
 	icon_state = "fire"
 	resistance_flags = FIRE_PROOF
 
+/obj/structure/sign/warning/cold
+	name = 	name = "\improper DANGER: Extreeme cold"
+	desc = "A warning sign which reads 'DANGER: Extreeme cold'."
+	icon_state = "cold"
+	resistance_flags = FIRE_PROOF
+
 /obj/structure/sign/warning/nosmoking
 	name = "\improper NO SMOKING"
 	desc = "A warning sign which reads 'NO SMOKING'."
