@@ -17,9 +17,6 @@
 	sound_environment = SOUND_AREA_LARGE_SOFTFLOOR
 	area_flags = UNIQUE_AREA | FLORA_ALLOWED
 
-	//	lighting_overlay_colour = "#93c3cf"	failed attempts at more moody lighting. keeping the setting for future attempts
-	//	lighting_overlay_opacity = 150
-
 /area/iceland/planetgen
 	map_generator = /datum/map_generator/tundra_generator
 
