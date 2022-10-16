@@ -74,9 +74,9 @@
 					humidity_level = BIOME_HIGH_HUMIDITY
 			selected_biome = possible_biomes[heat_level][humidity_level]
 		else //Over 0.85; It's a mountain
-			selected_biome = /datum/biome/frostplains
+			selected_biome = /datum/biome/frostplains //no
 		selected_biome = SSmapping.biomes[selected_biome] //Get the instance of this biome from SSmapping
 		selected_biome.generate_turf(gen_turf)
 		CHECK_TICK
 
-#define TUNDRA_RANDOM_SQUARE_DRIFT 2
+#undef TUNDRA_RANDOM_SQUARE_DRIFT
